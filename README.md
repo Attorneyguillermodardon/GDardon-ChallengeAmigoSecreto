@@ -12,8 +12,9 @@ _- Descarga los archivos del repositorio y guardalos en una carpeta_
 
 _- Abre la carpeta en Visual Studio Code y ejecuta la extensión de Live Server para visualizar el juego en tu navegador_
 
-
 ### 2️⃣  Jugar directamente sin modificar el código  
 
 _- Juega en este enlace de GitHub Pages: https://attorneyguillermodardon.github.io/GDardon-ChallengeAmigoSecreto/  
 Link pages_
+
+## Algunas funcionalidades interesantes que se utilizaron a parte de las que vimos en el curso de Alura ⌨️
