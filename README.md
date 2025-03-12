@@ -29,7 +29,7 @@ _En su segunda aplicación en el código, .innerHTML coloca el nombre del amigo 
 
 _A diferencia de lo visto en el curso, despues de investigar, en vez de usar for, opté por utilizar .forEach para hacer el código más simple y más breve. Por este motivo, esta función me gusta más._
 
-_El .forEach permite que se recorran los nombres en el array conforme se agregan, crea un Li para cada nombre dentro del <ul> en el HTML y actualiza la interzaz del usuario para que se muestren los amigos en la página del juego, los cuales terminan de agregarse con la función .appenChild(li)._
+_El .forEach permite que se recorran los nombres en el array conforme se agregan, crea un Li para cada nombre dentro del elemento ul en el HTML y actualiza la interzaz del usuario para que se muestren los amigos en la página del juego, los cuales terminan de agregarse con la función .appenChild(li)._
 
 _Para no borrar el contenido anterior en la lista, usamos appendChild (), por lo que es una buena práctica incluir esta función al crear la lista en JS, mientras que utilizamos inner.HTML en donde se reemplaza el contenido, como se hace al mostrar el resultado._
 
