@@ -42,3 +42,22 @@ _Para no borrar el contenido anterior en la lista, usamos appendChild (), por lo
 ![captura de foreach y appendchild](https://github.com/Attorneyguillermodardon/GDardon-ChallengeAmigoSecreto/blob/main/README%20imagenes/for%20each%20y%20appendchild.PNG?raw=true)
 
 _Por último, utilizamos funciones que vimos en el curso para sortear al amigo secreto como Math.floor, Math.random y * nombres.length, asi como getElementById para seleccionar los el ementos en el HTML y los condicionales if para mostrar las alert en el juego._
+
+## Construido con 🛠️
+
+* Microsoft Edge
+* JavaScript
+* HTML
+* CSS
+* Visual Studio Code
+* Git bash
+
+## Autor ✒️
+
+* **Guillermo Andrés Dardón García** - *Challenge Amigo Secreto - Full production* - [Attorneyguillermodardon](https://github.com/Attorneyguillermodardon)
+
+![Mi Foto de Perfil](https://avatars.githubusercontent.com/u/196573116?s=400&u=ddd3ae9a0263d494b7ecb6b0db3dfed8ce292dee&v=4)
+
+## Gracias a mi novia por apoyarme y compartir mi ánimo por este proyecto y a Alura por sus increíbles cursos, me la he pasado super! 🎁
+
+con ❤️ por [Attorneyguillermodardon](https://github.com/Attorneyguillermodardon)😊
